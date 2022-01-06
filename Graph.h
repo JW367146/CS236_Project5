@@ -43,7 +43,7 @@ public:
         //We mark the node as being visited
         markedNodes.insert(node);
         int index = -1;
-        for(int i = 0; i < graph.size(); i++){
+        for(unsigned int i = 0; i < graph.size(); i++){
             if(graph[i].getKey() == node){
                 index = i;
             }
@@ -100,7 +100,6 @@ public:
 
     std::string printAdjList(){
 
-        int a =0;
         std::stringstream out;
         for(unsigned int i =0; i < graph.size();i++){
             out<<"R" << graph[i].getKey() <<": ";

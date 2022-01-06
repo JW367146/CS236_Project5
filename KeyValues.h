@@ -4,7 +4,6 @@
 #define CS236_PROJECT1_KEYVALUES_H
 
 template<class Key>
-
 class KeyValues
 {
 private:
@@ -21,12 +20,22 @@ public:
         this->key = key;
     }
 
+    bool isMember(int value){
+        for(unsigned int i =0; i < values.size();i++){
+            if(value == values[i]){
+                return true;
+            }
+        }
+        return false;
+    }
+
     void addValue(int value){
-        if (!count(values.begin(), values.end(), value))
+        if (!isMember(value))
         {
             values.push_back(value);
         }
     }
+
     Key getKey() {
         return key;
     }

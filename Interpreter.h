@@ -251,7 +251,7 @@ public:
 
     void evalSCC(set<int> SCCrules){
         unsigned int initialCount = database.getTotalSize();
-        unsigned int numRules = SCCrules.size();
+        //unsigned int numRules = SCCrules.size();
         for(auto it = SCCrules.begin(); it != SCCrules.end(); ++it){
             int ruleIndex = *it;
             std::string rule = datalogProgram.ruleAtI(ruleIndex).toString() + ".\n";
@@ -297,7 +297,6 @@ public:
             }
         }
 
-        int b = 0;
         //Now we have the dependancy graph and the reverse dependancy graph.
         Graph forwardDependGraph = Graph(dependGraph);
         Graph reverse = Graph(reverseDependGraph);
