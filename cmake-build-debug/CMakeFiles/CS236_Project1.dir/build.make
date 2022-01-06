@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4"
+CMAKE_SOURCE_DIR = "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles\CS236_Project1.dir\depend.make
@@ -57,97 +57,97 @@ include CMakeFiles\CS236_Project1.dir\flags.make
 
 CMakeFiles\CS236_Project1.dir\ColonAutomaton.cpp.obj: CMakeFiles\CS236_Project1.dir\flags.make
 CMakeFiles\CS236_Project1.dir\ColonAutomaton.cpp.obj: ..\ColonAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CS236_Project1.dir/ColonAutomaton.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CS236_Project1.dir/ColonAutomaton.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\CS236_Project1.dir\ColonAutomaton.cpp.obj /FdCMakeFiles\CS236_Project1.dir\ /FS -c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\ColonAutomaton.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\CS236_Project1.dir\ColonAutomaton.cpp.obj /FdCMakeFiles\CS236_Project1.dir\ /FS -c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\ColonAutomaton.cpp"
 <<
 
 CMakeFiles\CS236_Project1.dir\ColonAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CS236_Project1.dir/ColonAutomaton.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe > CMakeFiles\CS236_Project1.dir\ColonAutomaton.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\ColonAutomaton.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\ColonAutomaton.cpp"
 <<
 
 CMakeFiles\CS236_Project1.dir\ColonAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CS236_Project1.dir/ColonAutomaton.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\CS236_Project1.dir\ColonAutomaton.cpp.s /c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\ColonAutomaton.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\CS236_Project1.dir\ColonAutomaton.cpp.s /c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\ColonAutomaton.cpp"
 <<
 
 CMakeFiles\CS236_Project1.dir\ColonDashAutomaton.cpp.obj: CMakeFiles\CS236_Project1.dir\flags.make
 CMakeFiles\CS236_Project1.dir\ColonDashAutomaton.cpp.obj: ..\ColonDashAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CS236_Project1.dir/ColonDashAutomaton.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CS236_Project1.dir/ColonDashAutomaton.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\CS236_Project1.dir\ColonDashAutomaton.cpp.obj /FdCMakeFiles\CS236_Project1.dir\ /FS -c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\ColonDashAutomaton.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\CS236_Project1.dir\ColonDashAutomaton.cpp.obj /FdCMakeFiles\CS236_Project1.dir\ /FS -c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\ColonDashAutomaton.cpp"
 <<
 
 CMakeFiles\CS236_Project1.dir\ColonDashAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CS236_Project1.dir/ColonDashAutomaton.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe > CMakeFiles\CS236_Project1.dir\ColonDashAutomaton.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\ColonDashAutomaton.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\ColonDashAutomaton.cpp"
 <<
 
 CMakeFiles\CS236_Project1.dir\ColonDashAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CS236_Project1.dir/ColonDashAutomaton.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\CS236_Project1.dir\ColonDashAutomaton.cpp.s /c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\ColonDashAutomaton.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\CS236_Project1.dir\ColonDashAutomaton.cpp.s /c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\ColonDashAutomaton.cpp"
 <<
 
 CMakeFiles\CS236_Project1.dir\Lexer.cpp.obj: CMakeFiles\CS236_Project1.dir\flags.make
 CMakeFiles\CS236_Project1.dir\Lexer.cpp.obj: ..\Lexer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CS236_Project1.dir/Lexer.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CS236_Project1.dir/Lexer.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\CS236_Project1.dir\Lexer.cpp.obj /FdCMakeFiles\CS236_Project1.dir\ /FS -c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\Lexer.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\CS236_Project1.dir\Lexer.cpp.obj /FdCMakeFiles\CS236_Project1.dir\ /FS -c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\Lexer.cpp"
 <<
 
 CMakeFiles\CS236_Project1.dir\Lexer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CS236_Project1.dir/Lexer.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe > CMakeFiles\CS236_Project1.dir\Lexer.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\Lexer.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\Lexer.cpp"
 <<
 
 CMakeFiles\CS236_Project1.dir\Lexer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CS236_Project1.dir/Lexer.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\CS236_Project1.dir\Lexer.cpp.s /c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\Lexer.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\CS236_Project1.dir\Lexer.cpp.s /c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\Lexer.cpp"
 <<
 
 CMakeFiles\CS236_Project1.dir\main.cpp.obj: CMakeFiles\CS236_Project1.dir\flags.make
 CMakeFiles\CS236_Project1.dir\main.cpp.obj: ..\main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CS236_Project1.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CS236_Project1.dir/main.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\CS236_Project1.dir\main.cpp.obj /FdCMakeFiles\CS236_Project1.dir\ /FS -c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\main.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\CS236_Project1.dir\main.cpp.obj /FdCMakeFiles\CS236_Project1.dir\ /FS -c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\main.cpp"
 <<
 
 CMakeFiles\CS236_Project1.dir\main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CS236_Project1.dir/main.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe > CMakeFiles\CS236_Project1.dir\main.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\main.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\main.cpp"
 <<
 
 CMakeFiles\CS236_Project1.dir\main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CS236_Project1.dir/main.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\CS236_Project1.dir\main.cpp.s /c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\main.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\CS236_Project1.dir\main.cpp.s /c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\main.cpp"
 <<
 
 CMakeFiles\CS236_Project1.dir\Token.cpp.obj: CMakeFiles\CS236_Project1.dir\flags.make
 CMakeFiles\CS236_Project1.dir\Token.cpp.obj: ..\Token.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CS236_Project1.dir/Token.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CS236_Project1.dir/Token.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\CS236_Project1.dir\Token.cpp.obj /FdCMakeFiles\CS236_Project1.dir\ /FS -c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\Token.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\CS236_Project1.dir\Token.cpp.obj /FdCMakeFiles\CS236_Project1.dir\ /FS -c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\Token.cpp"
 <<
 
 CMakeFiles\CS236_Project1.dir\Token.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CS236_Project1.dir/Token.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe > CMakeFiles\CS236_Project1.dir\Token.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\Token.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\Token.cpp"
 <<
 
 CMakeFiles\CS236_Project1.dir\Token.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CS236_Project1.dir/Token.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\CS236_Project1.dir\Token.cpp.s /c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\Token.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\CS236_Project1.dir\Token.cpp.s /c "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\Token.cpp"
 <<
 
 # Object files for target CS236_Project1
@@ -168,9 +168,9 @@ CS236_Project1.exe: CMakeFiles\CS236_Project1.dir\main.cpp.obj
 CS236_Project1.exe: CMakeFiles\CS236_Project1.dir\Token.cpp.obj
 CS236_Project1.exe: CMakeFiles\CS236_Project1.dir\build.make
 CS236_Project1.exe: CMakeFiles\CS236_Project1.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable CS236_Project1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable CS236_Project1.exe"
 	"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\CS236_Project1.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\CS236_Project1.dir\objects1.rsp @<<
- /out:CS236_Project1.exe /implib:CS236_Project1.lib /pdb:"C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\CS236_Project1.pdb" /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
+ /out:CS236_Project1.exe /implib:CS236_Project1.lib /pdb:"C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\CS236_Project1.pdb" /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
 
 # Rule to build all files generated by this target.
@@ -182,6 +182,6 @@ CMakeFiles\CS236_Project1.dir\clean:
 .PHONY : CMakeFiles\CS236_Project1.dir\clean
 
 CMakeFiles\CS236_Project1.dir\depend:
-	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4" "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4" "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug" "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug" "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\CMakeFiles\CS236_Project1.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5" "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5" "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug" "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug" "C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\CMakeFiles\CS236_Project1.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles\CS236_Project1.dir\depend
 

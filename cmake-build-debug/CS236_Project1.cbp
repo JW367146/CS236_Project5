@@ -8,23 +8,23 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="CS236_Project1">
-				<Option output="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/cmake-build-debug/CS236_Project1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/cmake-build-debug"/>
+				<Option output="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/cmake-build-debug/CS236_Project1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
 				<Compiler>
-					<Add directory="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/."/>
+					<Add directory="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/."/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
@@ -34,20 +34,20 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 CS236_Project1"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 CS236_Project1"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="CS236_Project1/fast">
-				<Option output="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/cmake-build-debug/CS236_Project1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/cmake-build-debug"/>
+				<Option output="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/cmake-build-debug/CS236_Project1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
 				<Compiler>
-					<Add directory="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/."/>
+					<Add directory="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/."/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
@@ -57,100 +57,100 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 CS236_Project1/fast"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 CS236_Project1/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project4\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Joseph Wilson\CLionProjects\Cs236 Project5\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Automaton.h">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/ColonAutomaton.cpp">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/ColonAutomaton.cpp">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/ColonAutomaton.h">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/ColonAutomaton.h">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/ColonDashAutomaton.cpp">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/ColonDashAutomaton.cpp">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/ColonDashAutomaton.h">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/ColonDashAutomaton.h">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/FSA_Comma.h">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Comma.h">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/FSA_Comment.h">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Comment.h">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/FSA_Facts.h">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Facts.h">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/FSA_ID.h">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_ID.h">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/FSA_L_Paren.h">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_L_Paren.h">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/FSA_Multiply.h">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Multiply.h">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/FSA_Queries.h">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Queries.h">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/FSA_R_Paren.h">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_R_Paren.h">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/FSA_Rules.h">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Rules.h">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/FSA_Schemes.h">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Schemes.h">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/FSA_String.h">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_String.h">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Lexer.cpp">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Lexer.cpp">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Lexer.h">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Lexer.h">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Token.cpp">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Token.cpp">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Token.h">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Token.h">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Undefined.h">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Undefined.h">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/main.cpp">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/main.cpp">
 			<Option target="CS236_Project1"/>
 		</Unit>
-		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/CMakeLists.txt">
+		<Unit filename="C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

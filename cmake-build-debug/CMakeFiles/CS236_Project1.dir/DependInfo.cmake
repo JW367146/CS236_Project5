@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/ColonAutomaton.cpp" "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/cmake-build-debug/CMakeFiles/CS236_Project1.dir/ColonAutomaton.cpp.obj"
-  "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/ColonDashAutomaton.cpp" "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/cmake-build-debug/CMakeFiles/CS236_Project1.dir/ColonDashAutomaton.cpp.obj"
-  "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Lexer.cpp" "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/cmake-build-debug/CMakeFiles/CS236_Project1.dir/Lexer.cpp.obj"
-  "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Token.cpp" "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/cmake-build-debug/CMakeFiles/CS236_Project1.dir/Token.cpp.obj"
-  "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/main.cpp" "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/cmake-build-debug/CMakeFiles/CS236_Project1.dir/main.cpp.obj"
+  "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/ColonAutomaton.cpp" "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/cmake-build-debug/CMakeFiles/CS236_Project1.dir/ColonAutomaton.cpp.obj"
+  "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/ColonDashAutomaton.cpp" "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/cmake-build-debug/CMakeFiles/CS236_Project1.dir/ColonDashAutomaton.cpp.obj"
+  "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Lexer.cpp" "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/cmake-build-debug/CMakeFiles/CS236_Project1.dir/Lexer.cpp.obj"
+  "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Token.cpp" "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/cmake-build-debug/CMakeFiles/CS236_Project1.dir/Token.cpp.obj"
+  "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/main.cpp" "C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/cmake-build-debug/CMakeFiles/CS236_Project1.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

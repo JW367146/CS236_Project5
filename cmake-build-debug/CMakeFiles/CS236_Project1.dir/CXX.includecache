@@ -6,119 +6,249 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
 Token.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Token.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Token.h
 
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Database.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/ColonAutomaton.cpp
+ColonAutomaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/ColonAutomaton.h
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/ColonAutomaton.h
+Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/ColonDashAutomaton.cpp
+ColonDashAutomaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/ColonDashAutomaton.h
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/ColonDashAutomaton.h
+Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Database.h
 Relation.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Relation.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Relation.h
 map
 -
 
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/DatalogProgram.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/DatalogProgram.h
 Predicate.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Predicate.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Predicate.h
 Rule.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Rule.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Rule.h
 set
 -
 string
 -
 
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Graph.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Add.h
+Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Comma.h
+Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Comment.h
+Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Facts.h
+Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
+string
+-
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_ID.h
+Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_L_Paren.h
+Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Multiply.h
+Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Period.h
+Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Q_Mark.h
+Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Queries.h
+Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
+string
+-
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_R_Paren.h
+Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Rules.h
+Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
+string
+-
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Schemes.h
+Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
+string
+-
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_String.h
+Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Graph.h
 KeyValues.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/KeyValues.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/KeyValues.h
 stack
 -
 algorithm
 -
 
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Header.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Header.h
 
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Interpreter.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Interpreter.h
 DatalogProgram.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/DatalogProgram.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/DatalogProgram.h
 Database.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Database.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Database.h
 StringInts.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/StringInts.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/StringInts.h
 KeyValues.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/KeyValues.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/KeyValues.h
 Graph.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Graph.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Graph.h
 
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/KeyValues.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/KeyValues.h
 
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Lexer.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Lexer.cpp
+Lexer.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Lexer.h
+ColonAutomaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/ColonAutomaton.h
+ColonDashAutomaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/ColonDashAutomaton.h
+FSA_L_Paren.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_L_Paren.h
+FSA_R_Paren.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_R_Paren.h
+FSA_Comma.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Comma.h
+FSA_Period.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Period.h
+FSA_Q_Mark.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Q_Mark.h
+FSA_Add.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Add.h
+FSA_Multiply.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Multiply.h
+FSA_Rules.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Rules.h
+FSA_Facts.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Facts.h
+FSA_Schemes.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Schemes.h
+FSA_Queries.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Queries.h
+FSA_String.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_String.h
+FSA_ID.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_ID.h
+FSA_Comment.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/FSA_Comment.h
+Undefined.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Undefined.h
+cctype
+-
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Lexer.h
 vector
 -
 Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
 Token.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Token.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Token.h
 
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Parameter.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Parameter.h
 string
 -
 
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Parser.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Parser.h
 Predicate.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Predicate.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Predicate.h
 Token.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Token.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Token.h
 DatalogProgram.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/DatalogProgram.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/DatalogProgram.h
 Rule.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Rule.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Rule.h
 set
 -
 
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Predicate.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Predicate.h
 Parameter.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Parameter.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Parameter.h
 vector
 -
 sstream
 -
 
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Relation.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Relation.h
 Tuple.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Tuple.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Tuple.h
 Header.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Header.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Header.h
 string
 -
 
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Rule.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Rule.h
 Predicate.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Predicate.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Predicate.h
 sstream
 -
 string
 -
 
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/StringInts.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/StringInts.h
 
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Token.h
-string
--
-sstream
--
-
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Tuple.h
-
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/main.cpp
-Lexer.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Lexer.h
-iostream
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/iostream
-fstream
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/fstream
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Token.cpp
 Token.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Token.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Token.h
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Token.h
+string
+-
+sstream
+-
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Tuple.h
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Undefined.h
+Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Automaton.h
+string
+-
+
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/main.cpp
+Lexer.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Lexer.h
+iostream
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/iostream
+fstream
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/fstream
+Token.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Token.h
 Parser.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Parser.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Parser.h
 Interpreter.h
-C:/Users/Joseph Wilson/CLionProjects/Cs236 Project4/Interpreter.h
+C:/Users/Joseph Wilson/CLionProjects/Cs236 Project5/Interpreter.h
 
