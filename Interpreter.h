@@ -262,10 +262,16 @@ public:
         }
         unsigned int finalCount = database.getTotalSize();
 
-        if(finalCount > initialCount){
-            rulePasses++;
-            evalSCC(SCCrules);
+
+        rulePasses++;
+        if(SCCrules.size() > 1){
+            if(finalCount > initialCount){
+                evalSCC(SCCrules);
+            }
         }
+
+
+
 
     }
 
@@ -331,6 +337,7 @@ public:
            }
            lab5Out << listy.str();
            lab5Out <<"\n";
+           rulePasses = 0;
            evalSCC(SCCs[i]);
            lab5Out<< rulePasses <<" passes: "<< listy.str() <<"\n";
            rulePasses = 0;
