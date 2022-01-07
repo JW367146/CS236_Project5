@@ -248,13 +248,23 @@ public:
             evalRules();
         }
     }
+    //This function checks the rules in a scc
 
     void evalSCC(set<int> SCCrules){
+        //This bool is for checking whether a rule has a similar predicate in head and body;
+        bool headAndBody = false;
         unsigned int initialCount = database.getTotalSize();
         //unsigned int numRules = SCCrules.size();
         for(auto it = SCCrules.begin(); it != SCCrules.end(); ++it){
             int ruleIndex = *it;
             std::string rule = datalogProgram.ruleAtI(ruleIndex).toString() + ".\n";
+            std::string head = datalogProgram.ruleAtI(ruleIndex).getHeadID();
+            for(unsigned int i = 0; i < datalogProgram.ruleAtI(ruleIndex).numBodyPredicates(); i++){
+                std::string body = datalogProgram.ruleAtI(ruleIndex).predicateAtI(i).getID();
+                if(head == body){
+                    headAndBody = true;
+                }
+            }
             lab5Out << rule;
             Relation evaluated = evalRule(datalogProgram.ruleAtI(ruleIndex));
 //            string relation = evaluated.toString();
@@ -262,15 +272,15 @@ public:
         }
         unsigned int finalCount = database.getTotalSize();
 
-
+        //We must determine if the SCC needs to be repeated.
+        //If there is more than one it does,
+        //If
         rulePasses++;
-        if(SCCrules.size() > 1){
+        if(SCCrules.size() > 1 || headAndBody){
             if(finalCount > initialCount){
                 evalSCC(SCCrules);
             }
         }
-
-
 
 
     }
